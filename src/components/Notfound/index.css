@@ -1,0 +1,20 @@
+.not-found-image {
+  height: 250px;
+}
+.notfound-title {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #475569;
+}
+.notfound-subtitle {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #64748b;
+}
+.notfound-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

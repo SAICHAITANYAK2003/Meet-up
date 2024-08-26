@@ -1,0 +1,42 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.home-image {
+  height: 300px;
+}
+.home-title {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 40px;
+}
+.home-subtitle {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 20px;
+}
+.home-register-button {
+  height: 40px;
+  width: 110px;
+  border: none;
+  background-color: #3b82f6;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.registered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.register-title {
+  color: #2563eb;
+  font-size: 40px;
+  font-family: 'Roboto';
+}
